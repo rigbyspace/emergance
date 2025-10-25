@@ -1,0 +1,78 @@
+\documentclass[11pt]{article}
+\usepackage[margin=0.36in]{geometry}
+\usepackage{amsmath, amssymb}
+\usepackage{iftex}
+\bibliographystyle{unsrt}
+\usepackage{setspace}
+\usepackage{tikz}
+\usepackage{pgfplots}
+\pgfplotsset{compat=1.18}
+\usepackage{pgfplotstable}
+\usepackage{booktabs}
+\usepackage{fontspec}
+\setmainfont{Segoe UI This}
+\newcommand{\E}{\mathrm{E}}
+\newcommand{\M}{\mathrm{M}}
+\newcommand{\R}{\mathrm{R}}
+\newcommand{\koppa}{\text{\char"03D9}}
+\newcommand{\DeltaN}[1]{\Delta_{#1}}
+\newcommand{\Q}{\mathbb{Q}}
+\newcommand{\Rho}{\text{\char"03A1}}
+\newcommand{\epact}{\text{\char*1017A}}
+\newtheorem{lemma}{Lemma}[section]
+\usepackage{fancyhdr}
+\setstretch{1.15}
+\pagestyle{fancy}
+\fancyhf{}
+\setlength{\headheight}{.5in}
+\rhead{RigbySpace}
+\lhead{\koppa}
+\cfoot{\thepage}
+
+\begin{document}
+
+\begin{titlepage}
+\vspace{7cm}
+\title{RigbySpace Unified Manuscript}
+\author{D. Veneziano}
+\date{\today}
+\vspace{1cm}
+\maketitle
+\end{titlepage}
+
+\newpage
+\tableofcontents
+\newpage
+
+\textbf{RigbySpace Fundamental Equations}
+
+\begin{align*}
+\text{TRTS Cycle:} & \quad [e-m-r-e][m-r-e-m][r-e-m-\Omega] \\
+\text{Microtick Count:} & \quad \mu \in \{1,2,\dots,11\} \\
+\text{Role Mapping:} & \quad R(\mu) = 
+\begin{cases}
+E & \mu \in \{1,2,3,4\} \\
+M & \mu \in \{5,6,7,8\} \\
+R & \mu \in \{9,10,11\}
+\end{cases}
+\end{align*}
+
+\begin{align*}
+\text{Fundamental Oscillators:} & \quad \upsilon = \frac{a}{b},\quad \beta = \frac{c}{d} \in \mathbb{Q}^+ \\
+\Psi\text{-Transformation:} & \quad \Psi(\upsilon, \beta) = \left(\frac{a}{d}, \frac{c}{b}\right) \\
+\text{Product Invariant:} & \quad \upsilon \cdot \beta = \Psi(\upsilon) \cdot \Psi(\beta)
+\end{align*}
+
+\begin{align*}
+\text{Imbalance Dynamics:} & \quad \kappa_{n+1} = f(\kappa_n, \omega_n, \rho_n) \\
+\text{Emission Condition:} & \quad \rho_n \text{ triggered when } \exists p \in \mathbb{P} \text{ in num/den of } \omega_n \\
+\text{Phase Resolution:} & \quad \Delta^2 \Phi(n) = W[\Phi(n)] \cdot \tau(n) + F(n)
+\end{align*}
+
+\begin{align*}
+\text{Emergent Constants:} & \quad \alpha^{-1} \approx \lim_{n \to \infty} \frac{\omega_{n+1}}{\omega_n} \\
+\text{Rational Convergence:} & \quad \forall \epsilon > 0, \exists N : \left|\frac{A_{n+1}}{A_n} - L\right| < \epsilon \\
+\text{where } L \in & \left\{\frac{1}{\sqrt{2}}, \sqrt{2}, 1+\sqrt{2}\right\} \text{ emerges from } \mathbb{Q}\text{-only propagation}
+\end{align*}
+
+\end{document}
