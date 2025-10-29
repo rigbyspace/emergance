@@ -1,0 +1,561 @@
+[32mlibboost-all-dev[0m/kali-rolling 1.83.0.2+b2 amd64
+  Boost C++ Libraries development files (ALL) (default version)
+
+[32mlibboost-atomic-dev[0m/kali-rolling 1.83.0.2+b2 amd64
+  atomic data types, operations, and memory ordering constraints (default version)
+
+[32mlibboost-atomic1.83-dev[0m/kali-rolling 1.83.0-5 amd64
+  atomic data types, operations, and memory ordering constraints
+
+[32mlibboost-atomic1.83.0[0m/kali-rolling,now 1.83.0-5 amd64 [installed,auto-removable]
+  atomic data types, operations, and memory ordering constraints
+
+[32mlibboost-atomic1.88-dev[0m/kali-rolling,now 1.88.0-1.4 amd64 [installed]
+  atomic data types, operations, and memory ordering constraints
+
+[32mlibboost-atomic1.88.0[0m/kali-rolling,now 1.88.0-1.4 amd64 [installed,automatic]
+  atomic data types, operations, and memory ordering constraints
+
+[32mlibboost-charconv1.88-dev[0m/kali-rolling,now 1.88.0-1.4 amd64 [installed]
+  high quality implementation of <charconv> in C++11
+
+[32mlibboost-charconv1.88.0[0m/kali-rolling,now 1.88.0-1.4 amd64 [installed,automatic]
+  high quality implementation of <charconv> in C++11
+
+[32mlibboost-chrono-dev[0m/kali-rolling 1.83.0.2+b2 amd64
+  C++ representation of time duration, time point, and clocks (default version)
+
+[32mlibboost-chrono1.83-dev[0m/kali-rolling 1.83.0-5 amd64
+  C++ representation of time duration, time point, and clocks
+
+[32mlibboost-chrono1.83.0t64[0m/kali-rolling,now 1.83.0-5 amd64 [installed,automatic]
+  C++ representation of time duration, time point, and clocks
+
+[32mlibboost-chrono1.88-dev[0m/kali-rolling,now 1.88.0-1.4 amd64 [installed]
+  C++ representation of time duration, time point, and clocks
+
+[32mlibboost-chrono1.88.0[0m/kali-rolling,now 1.88.0-1.4 amd64 [installed,automatic]
+  C++ representation of time duration, time point, and clocks
+
+[32mlibboost-container-dev[0m/kali-rolling 1.83.0.2+b2 amd64
+  C++ library that implements several well-known containers - dev files (default version)
+
+[32mlibboost-container1.83-dev[0m/kali-rolling 1.83.0-5 amd64
+  C++ library that implements several well-known containers - dev files
+
+[32mlibboost-container1.83.0[0m/kali-rolling,now 1.83.0-5 amd64 [installed,auto-removable]
+  C++ library that implements several well-known containers
+
+[32mlibboost-container1.88-dev[0m/kali-rolling,now 1.88.0-1.4 amd64 [installed]
+  C++ library that implements several well-known containers - dev files
+
+[32mlibboost-container1.88.0[0m/kali-rolling,now 1.88.0-1.4 amd64 [installed,automatic]
+  C++ library that implements several well-known containers
+
+[32mlibboost-context-dev[0m/kali-rolling 1.83.0.2+b2 amd64
+  provides a sort of cooperative multitasking on a single thread (default version)
+
+[32mlibboost-context1.83-dev[0m/kali-rolling 1.83.0-5 amd64
+  provides a sort of cooperative multitasking on a single thread
+
+[32mlibboost-context1.83.0[0m/kali-rolling,now 1.83.0-5 amd64 [installed,auto-removable]
+  provides a sort of cooperative multitasking on a single thread
+
+[32mlibboost-context1.88-dev[0m/kali-rolling,now 1.88.0-1.4 amd64 [installed]
+  provides a sort of cooperative multitasking on a single thread
+
+[32mlibboost-context1.88.0[0m/kali-rolling,now 1.88.0-1.4 amd64 [installed,automatic]
+  provides a sort of cooperative multitasking on a single thread
+
+[32mlibboost-contract-dev[0m/kali-rolling 1.83.0.2+b2 amd64
+  Contract library for C++ - dev files (default version)
+
+[32mlibboost-contract1.83-dev[0m/kali-rolling 1.83.0-5 amd64
+  Contract library for C++ - dev files
+
+[32mlibboost-contract1.83.0[0m/kali-rolling,now 1.83.0-5 amd64 [installed,auto-removable]
+  Contract library for C++
+
+[32mlibboost-contract1.88-dev[0m/kali-rolling 1.88.0-1.4 amd64
+  Contract library for C++ - dev files
+
+[32mlibboost-contract1.88.0[0m/kali-rolling 1.88.0-1.4 amd64
+  Contract library for C++
+
+[32mlibboost-coroutine-dev[0m/kali-rolling 1.83.0.2+b2 amd64
+  provides a sort of cooperative multitasking on a single thread (default version)
+
+[32mlibboost-coroutine1.83-dev[0m/kali-rolling 1.83.0-5 amd64
+  provides a sort of cooperative multitasking on a single thread
+
+[32mlibboost-coroutine1.83.0[0m/kali-rolling,now 1.83.0-5 amd64 [installed,auto-removable]
+  provides a sort of cooperative multitasking on a single thread
+
+[32mlibboost-coroutine1.88-dev[0m/kali-rolling,now 1.88.0-1.4 amd64 [installed]
+  provides a sort of cooperative multitasking on a single thread
+
+[32mlibboost-coroutine1.88.0[0m/kali-rolling,now 1.88.0-1.4 amd64 [installed,automatic]
+  provides a sort of cooperative multitasking on a single thread
+
+[32mlibboost-date-time-dev[0m/kali-rolling 1.83.0.2+b2 amd64
+  set of date-time libraries based on generic programming concepts (default version)
+
+[32mlibboost-date-time1.83-dev[0m/kali-rolling 1.83.0-5 amd64
+  set of date-time libraries based on generic programming concepts
+
+[32mlibboost-date-time1.83.0[0m/kali-rolling,now 1.83.0-5 amd64 [installed,auto-removable]
+  set of date-time libraries based on generic programming concepts
+
+[32mlibboost-date-time1.88-dev[0m/kali-rolling,now 1.88.0-1.4 amd64 [installed,automatic]
+  set of date-time libraries based on generic programming concepts
+
+[32mlibboost-date-time1.88.0[0m/kali-rolling,now 1.88.0-1.4 amd64 [installed,automatic]
+  set of date-time libraries based on generic programming concepts
+
+[32mlibboost-dev[0m/kali-rolling 1.83.0.2+b2 amd64
+  Boost C++ Libraries development files (default version)
+
+[32mlibboost-doc[0m/kali-rolling,kali-rolling 1.83.0.2 all
+  Boost.org libraries documentation placeholder (default version)
+
+[32mlibboost-exception-dev[0m/kali-rolling 1.83.0.2+b2 amd64
+  library to help write exceptions and handlers (default version)
+
+[32mlibboost-exception1.83-dev[0m/kali-rolling 1.83.0-5 amd64
+  library to help write exceptions and handlers
+
+[32mlibboost-exception1.88-dev[0m/kali-rolling,now 1.88.0-1.4 amd64 [installed,automatic]
+  library to help write exceptions and handlers
+
+[32mlibboost-ext-ut-dev[0m/kali-rolling,kali-rolling,now 2.3.1-2 all [installed]
+  C++ single header/module, macro-free unit testing framework
+
+[32mlibboost-fiber-dev[0m/kali-rolling 1.83.0.2+b2 amd64
+  cooperatively-scheduled micro-/userland-threads (default version)
+
+[32mlibboost-fiber1.83-dev[0m/kali-rolling 1.83.0-5 amd64
+  cooperatively-scheduled micro-/userland-threads
+
+[32mlibboost-fiber1.83.0[0m/kali-rolling,now 1.83.0-5 amd64 [installed,auto-removable]
+  cooperatively-scheduled micro-/userland-threads
+
+[32mlibboost-fiber1.88-dev[0m/kali-rolling,now 1.88.0-1.4 amd64 [installed]
+  cooperatively-scheduled micro-/userland-threads
+
+[32mlibboost-fiber1.88.0[0m/kali-rolling,now 1.88.0-1.4 amd64 [installed,automatic]
+  cooperatively-scheduled micro-/userland-threads
+
+[32mlibboost-filesystem-dev[0m/kali-rolling 1.83.0.2+b2 amd64
+  filesystem operations (portable paths, iteration over directories, etc) in C++ (default version)
+
+[32mlibboost-filesystem1.83-dev[0m/kali-rolling 1.83.0-5 amd64
+  filesystem operations (portable paths, iteration over directories, etc) in C++
+
+[32mlibboost-filesystem1.83.0[0m/kali-rolling,now 1.83.0-5 amd64 [installed,automatic]
+  filesystem operations (portable paths, iteration over directories, etc) in C++
+
+[32mlibboost-filesystem1.88-dev[0m/kali-rolling,now 1.88.0-1.4 amd64 [installed,automatic]
+  filesystem operations (portable paths, iteration over directories, etc) in C++
+
+[32mlibboost-filesystem1.88.0[0m/kali-rolling,now 1.88.0-1.4 amd64 [installed,automatic]
+  filesystem operations (portable paths, iteration over directories, etc) in C++
+
+[32mlibboost-geometry-utils-perl[0m/kali-rolling 0.15-3+b4 amd64
+  Perl module providing bindings to the Boost Geometry library
+
+[32mlibboost-graph-dev[0m/kali-rolling 1.83.0.2+b2 amd64
+  generic graph components and algorithms in C++ (default version)
+
+[32mlibboost-graph-parallel-dev[0m/kali-rolling 1.83.0.2+b2 amd64
+  generic graph components and algorithms in C++ (default version)
+
+[32mlibboost-graph-parallel1.83-dev[0m/kali-rolling 1.83.0-5 amd64
+  generic graph components and algorithms in C++
+
+[32mlibboost-graph-parallel1.83.0[0m/kali-rolling,now 1.83.0-5 amd64 [installed,auto-removable]
+  generic graph components and algorithms in C++
+
+[32mlibboost-graph-parallel1.88-dev[0m/kali-rolling,now 1.88.0-1.4 amd64 [installed]
+  generic graph components and algorithms in C++
+
+[32mlibboost-graph-parallel1.88.0[0m/kali-rolling,now 1.88.0-1.4 amd64 [installed,automatic]
+  generic graph components and algorithms in C++
+
+[32mlibboost-graph1.83-dev[0m/kali-rolling 1.83.0-5 amd64
+  generic graph components and algorithms in C++
+
+[32mlibboost-graph1.83.0[0m/kali-rolling,now 1.83.0-5 amd64 [installed,auto-removable]
+  generic graph components and algorithms in C++
+
+[32mlibboost-graph1.88-dev[0m/kali-rolling,now 1.88.0-1.4 amd64 [installed]
+  generic graph components and algorithms in C++
+
+[32mlibboost-graph1.88.0[0m/kali-rolling,now 1.88.0-1.4 amd64 [installed,automatic]
+  generic graph components and algorithms in C++
+
+[32mlibboost-iostreams-dev[0m/kali-rolling 1.83.0.2+b2 amd64
+  Boost.Iostreams Library development files (default version)
+
+[32mlibboost-iostreams1.83-dev[0m/kali-rolling 1.83.0-5 amd64
+  Boost.Iostreams Library development files
+
+[32mlibboost-iostreams1.83.0[0m/kali-rolling,now 1.83.0-5 amd64 [installed,automatic]
+  Boost.Iostreams Library
+
+[32mlibboost-iostreams1.88-dev[0m/kali-rolling,now 1.88.0-1.4 amd64 [installed]
+  Boost.Iostreams Library development files
+
+[32mlibboost-iostreams1.88.0[0m/kali-rolling,now 1.88.0-1.4 amd64 [installed,automatic]
+  Boost.Iostreams Library
+
+[32mlibboost-json-dev[0m/kali-rolling 1.83.0.2+b2 amd64
+  C++ containers and algorithms that implement JSON (default version)
+
+[32mlibboost-json1.83-dev[0m/kali-rolling 1.83.0-5 amd64
+  C++ containers and algorithms that implement JSON
+
+[32mlibboost-json1.83.0[0m/kali-rolling,now 1.83.0-5 amd64 [installed,auto-removable]
+  C++ containers and algorithms that implement JSON
+
+[32mlibboost-json1.88-dev[0m/kali-rolling,now 1.88.0-1.4 amd64 [installed]
+  C++ containers and algorithms that implement JSON
+
+[32mlibboost-json1.88.0[0m/kali-rolling,now 1.88.0-1.4 amd64 [installed,automatic]
+  C++ containers and algorithms that implement JSON
+
+[32mlibboost-locale-dev[0m/kali-rolling 1.83.0.2+b2 amd64
+  C++ facilities for localization (default version)
+
+[32mlibboost-locale1.83-dev[0m/kali-rolling 1.83.0-5 amd64
+  C++ facilities for localization
+
+[32mlibboost-locale1.83.0[0m/kali-rolling,now 1.83.0-5 amd64 [installed,automatic]
+  C++ facilities for localization
+
+[32mlibboost-locale1.88-dev[0m/kali-rolling,now 1.88.0-1.4 amd64 [installed]
+  C++ facilities for localization
+
+[32mlibboost-locale1.88.0[0m/kali-rolling,now 1.88.0-1.4 amd64 [installed,automatic]
+  C++ facilities for localization
+
+[32mlibboost-log-dev[0m/kali-rolling 1.83.0.2+b2 amd64
+  C++ logging library (default version)
+
+[32mlibboost-log1.83-dev[0m/kali-rolling 1.83.0-5 amd64
+  C++ logging library
+
+[32mlibboost-log1.83.0[0m/kali-rolling,now 1.83.0-5 amd64 [installed,auto-removable]
+  C++ logging library
+
+[32mlibboost-log1.88-dev[0m/kali-rolling,now 1.88.0-1.4 amd64 [installed]
+  C++ logging library
+
+[32mlibboost-log1.88.0[0m/kali-rolling,now 1.88.0-1.4 amd64 [installed,automatic]
+  C++ logging library
+
+[32mlibboost-math-dev[0m/kali-rolling 1.83.0.2+b2 amd64
+  Boost.Math Library development files (default version)
+
+[32mlibboost-math1.83-dev[0m/kali-rolling 1.83.0-5 amd64
+  Boost.Math Library development files
+
+[32mlibboost-math1.83.0[0m/kali-rolling,now 1.83.0-5 amd64 [installed,auto-removable]
+  Boost.Math Library
+
+[32mlibboost-math1.88-dev[0m/kali-rolling,now 1.88.0-1.4 amd64 [installed]
+  Boost.Math Library development files
+
+[32mlibboost-math1.88.0[0m/kali-rolling,now 1.88.0-1.4 amd64 [installed,automatic]
+  Boost.Math Library
+
+[32mlibboost-mpi-dev[0m/kali-rolling 1.83.0.2+b2 amd64
+  C++ interface to the Message Passing Interface (MPI) (default version)
+
+[32mlibboost-mpi-python-dev[0m/kali-rolling 1.83.0.2+b2 amd64
+  C++ interface to the Message Passing Interface (MPI), Python Bindings (default version)
+
+[32mlibboost-mpi-python1.83-dev[0m/kali-rolling 1.83.0-5 amd64
+  C++ interface to the Message Passing Interface (MPI), Python Bindings
+
+[32mlibboost-mpi-python1.83.0[0m/kali-rolling 1.83.0-5 amd64
+  C++ interface to the Message Passing Interface (MPI), Python Bindings
+
+[32mlibboost-mpi-python1.88-dev[0m/kali-rolling,now 1.88.0-1.4 amd64 [installed]
+  C++ interface to the Message Passing Interface (MPI), Python Bindings
+
+[32mlibboost-mpi-python1.88.0[0m/kali-rolling,now 1.88.0-1.4 amd64 [installed,automatic]
+  C++ interface to the Message Passing Interface (MPI), Python Bindings
+
+[32mlibboost-mpi1.83-dev[0m/kali-rolling 1.83.0-5 amd64
+  C++ interface to the Message Passing Interface (MPI)
+
+[32mlibboost-mpi1.83.0[0m/kali-rolling,now 1.83.0-5 amd64 [installed,auto-removable]
+  C++ interface to the Message Passing Interface (MPI)
+
+[32mlibboost-mpi1.88-dev[0m/kali-rolling,now 1.88.0-1.4 amd64 [installed,automatic]
+  C++ interface to the Message Passing Interface (MPI)
+
+[32mlibboost-mpi1.88.0[0m/kali-rolling,now 1.88.0-1.4 amd64 [installed,automatic]
+  C++ interface to the Message Passing Interface (MPI)
+
+[32mlibboost-nowide-dev[0m/kali-rolling 1.83.0.2+b2 amd64
+  Standard library functions with UTF-8 API on Windows development files (default version)
+
+[32mlibboost-nowide1.83-dev[0m/kali-rolling 1.83.0-5 amd64
+  Standard library functions with UTF-8 API on Windows development files
+
+[32mlibboost-nowide1.83.0[0m/kali-rolling,now 1.83.0-5 amd64 [installed,auto-removable]
+  Standard library functions with UTF-8 API on Windows
+
+[32mlibboost-nowide1.88-dev[0m/kali-rolling,now 1.88.0-1.4 amd64 [installed]
+  Standard library functions with UTF-8 API on Windows development files
+
+[32mlibboost-nowide1.88.0[0m/kali-rolling,now 1.88.0-1.4 amd64 [installed,automatic]
+  Standard library functions with UTF-8 API on Windows
+
+[32mlibboost-numpy-dev[0m/kali-rolling 1.83.0.2+b2 amd64
+  Boost.Python NumPy extensions development files (default version)
+
+[32mlibboost-numpy1.83-dev[0m/kali-rolling 1.83.0-5 amd64
+  Boost.Python NumPy extensions development files
+
+[32mlibboost-numpy1.83.0[0m/kali-rolling,now 1.83.0-5 amd64 [installed,auto-removable]
+  Boost.Python NumPy extensions
+
+[32mlibboost-numpy1.88-dev[0m/kali-rolling,now 1.88.0-1.4 amd64 [installed]
+  Boost.Python NumPy extensions development files
+
+[32mlibboost-numpy1.88.0[0m/kali-rolling,now 1.88.0-1.4 amd64 [installed,automatic]
+  Boost.Python NumPy extensions
+
+[32mlibboost-process1.88-dev[0m/kali-rolling,now 1.88.0-1.4 amd64 [installed]
+  library to create processes in a portable way
+
+[32mlibboost-process1.88.0[0m/kali-rolling,now 1.88.0-1.4 amd64 [installed,automatic]
+  library to create processes in a portable way
+
+[32mlibboost-program-options-dev[0m/kali-rolling 1.83.0.2+b2 amd64
+  program options library for C++ (default version)
+
+[32mlibboost-program-options1.83-dev[0m/kali-rolling 1.83.0-5 amd64
+  program options library for C++
+
+[32mlibboost-program-options1.83.0[0m/kali-rolling,now 1.83.0-5 amd64 [installed,automatic]
+  program options library for C++
+
+[32mlibboost-program-options1.88-dev[0m/kali-rolling,now 1.88.0-1.4 amd64 [installed]
+  program options library for C++
+
+[32mlibboost-program-options1.88.0[0m/kali-rolling,now 1.88.0-1.4 amd64 [installed,automatic]
+  program options library for C++
+
+[32mlibboost-python-dev[0m/kali-rolling 1.83.0.2+b2 amd64
+  Boost.Python Library development files (default version)
+
+[32mlibboost-python1.83-dev[0m/kali-rolling 1.83.0-5 amd64
+  Boost.Python Library development files
+
+[32mlibboost-python1.83.0[0m/kali-rolling,now 1.83.0-5 amd64 [installed,automatic]
+  Boost.Python Library
+
+[32mlibboost-python1.88-dev[0m/kali-rolling,now 1.88.0-1.4 amd64 [installed]
+  Boost.Python Library development files
+
+[32mlibboost-python1.88.0[0m/kali-rolling,now 1.88.0-1.4 amd64 [installed,automatic]
+  Boost.Python Library
+
+[32mlibboost-random-dev[0m/kali-rolling 1.83.0.2+b2 amd64
+  Boost Random Number Library (default version)
+
+[32mlibboost-random1.83-dev[0m/kali-rolling 1.83.0-5 amd64
+  Boost Random Number Library
+
+[32mlibboost-random1.83.0[0m/kali-rolling,now 1.83.0-5 amd64 [installed,auto-removable]
+  Boost Random Number Library
+
+[32mlibboost-random1.88-dev[0m/kali-rolling,now 1.88.0-1.4 amd64 [installed,automatic]
+  Boost Random Number Library
+
+[32mlibboost-random1.88.0[0m/kali-rolling,now 1.88.0-1.4 amd64 [installed,automatic]
+  Boost Random Number Library
+
+[32mlibboost-regex-dev[0m/kali-rolling 1.83.0.2+b2 amd64
+  regular expression library for C++ (default version)
+
+[32mlibboost-regex1.83-dev[0m/kali-rolling 1.83.0-5 amd64
+  regular expression library for C++
+
+[32mlibboost-regex1.83.0[0m/kali-rolling,now 1.83.0-5 amd64 [installed,auto-removable]
+  regular expression library for C++
+
+[32mlibboost-regex1.88-dev[0m/kali-rolling,now 1.88.0-1.4 amd64 [installed,automatic]
+  regular expression library for C++
+
+[32mlibboost-regex1.88.0[0m/kali-rolling,now 1.88.0-1.4 amd64 [installed,automatic]
+  regular expression library for C++
+
+[32mlibboost-serialization-dev[0m/kali-rolling 1.83.0.2+b2 amd64
+  serialization library for C++ (default version)
+
+[32mlibboost-serialization1.83-dev[0m/kali-rolling 1.83.0-5 amd64
+  serialization library for C++
+
+[32mlibboost-serialization1.83.0[0m/kali-rolling,now 1.83.0-5 amd64 [installed,automatic]
+  serialization library for C++
+
+[32mlibboost-serialization1.88-dev[0m/kali-rolling,now 1.88.0-1.4 amd64 [installed,automatic]
+  serialization library for C++
+
+[32mlibboost-serialization1.88.0[0m/kali-rolling,now 1.88.0-1.4 amd64 [installed,automatic]
+  serialization library for C++
+
+[32mlibboost-stacktrace-dev[0m/kali-rolling 1.83.0.2+b2 amd64
+  library to capture and print stack traces - development files (default version)
+
+[32mlibboost-stacktrace1.83-dev[0m/kali-rolling 1.83.0-5 amd64
+  library to capture and print stack traces - development files
+
+[32mlibboost-stacktrace1.83.0[0m/kali-rolling,now 1.83.0-5 amd64 [installed,auto-removable]
+  library to capture and print stack traces
+
+[32mlibboost-stacktrace1.88-dev[0m/kali-rolling,now 1.88.0-1.4 amd64 [installed]
+  library to capture and print stack traces - development files
+
+[32mlibboost-stacktrace1.88.0[0m/kali-rolling,now 1.88.0-1.4 amd64 [installed,automatic]
+  library to capture and print stack traces
+
+[32mlibboost-system-dev[0m/kali-rolling 1.83.0.2+b2 amd64
+  Operating system (e.g. diagnostics support) library (default version)
+
+[32mlibboost-system1.83-dev[0m/kali-rolling 1.83.0-5 amd64
+  Operating system (e.g. diagnostics support) library
+
+[32mlibboost-system1.83.0[0m/kali-rolling,now 1.83.0-5 amd64 [installed,auto-removable]
+  Operating system (e.g. diagnostics support) library
+
+[32mlibboost-system1.88-dev[0m/kali-rolling,now 1.88.0-1.4 amd64 [installed,automatic]
+  Operating system (e.g. diagnostics support) library
+
+[32mlibboost-system1.88.0[0m/kali-rolling,now 1.88.0-1.4 amd64 [installed,automatic]
+  Operating system (e.g. diagnostics support) library
+
+[32mlibboost-test-dev[0m/kali-rolling 1.83.0.2+b2 amd64
+  components for writing and executing test suites (default version)
+
+[32mlibboost-test1.83-dev[0m/kali-rolling 1.83.0-5 amd64
+  components for writing and executing test suites
+
+[32mlibboost-test1.83.0[0m/kali-rolling,now 1.83.0-5 amd64 [installed,automatic]
+  components for writing and executing test suites
+
+[32mlibboost-test1.88-dev[0m/kali-rolling,now 1.88.0-1.4 amd64 [installed,automatic]
+  components for writing and executing test suites
+
+[32mlibboost-test1.88.0[0m/kali-rolling,now 1.88.0-1.4 amd64 [installed,automatic]
+  components for writing and executing test suites
+
+[32mlibboost-thread-dev[0m/kali-rolling 1.83.0.2+b2 amd64
+  portable C++ multi-threading (default version)
+
+[32mlibboost-thread1.83-dev[0m/kali-rolling 1.83.0-5 amd64
+  portable C++ multi-threading
+
+[32mlibboost-thread1.83.0[0m/kali-rolling,now 1.83.0-5 amd64 [installed,automatic]
+  portable C++ multi-threading
+
+[32mlibboost-thread1.88-dev[0m/kali-rolling,now 1.88.0-1.4 amd64 [installed,automatic]
+  portable C++ multi-threading
+
+[32mlibboost-thread1.88.0[0m/kali-rolling,now 1.88.0-1.4 amd64 [installed,automatic]
+  portable C++ multi-threading
+
+[32mlibboost-timer-dev[0m/kali-rolling 1.83.0.2+b2 amd64
+  C++ wall clock and CPU process timers (default version)
+
+[32mlibboost-timer1.83-dev[0m/kali-rolling 1.83.0-5 amd64
+  C++ wall clock and CPU process timers
+
+[32mlibboost-timer1.83.0[0m/kali-rolling,now 1.83.0-5 amd64 [installed,automatic]
+  C++ wall clock and CPU process timers
+
+[32mlibboost-timer1.88-dev[0m/kali-rolling,now 1.88.0-1.4 amd64 [installed]
+  C++ wall clock and CPU process timers
+
+[32mlibboost-timer1.88.0[0m/kali-rolling,now 1.88.0-1.4 amd64 [installed,automatic]
+  C++ wall clock and CPU process timers
+
+[32mlibboost-tools-dev[0m/kali-rolling 1.83.0.2+b2 amd64
+  Boost C++ Libraries development tools (default version)
+
+[32mlibboost-type-erasure-dev[0m/kali-rolling 1.83.0.2+b2 amd64
+  C++ runtime polymorphism based on concepts (default version)
+
+[32mlibboost-type-erasure1.83-dev[0m/kali-rolling 1.83.0-5 amd64
+  C++ runtime polymorphism based on concepts
+
+[32mlibboost-type-erasure1.83.0[0m/kali-rolling,now 1.83.0-5 amd64 [installed,auto-removable]
+  C++ runtime polymorphism based on concepts
+
+[32mlibboost-type-erasure1.88-dev[0m/kali-rolling,now 1.88.0-1.4 amd64 [installed]
+  C++ runtime polymorphism based on concepts
+
+[32mlibboost-type-erasure1.88.0[0m/kali-rolling,now 1.88.0-1.4 amd64 [installed,automatic]
+  C++ runtime polymorphism based on concepts
+
+[32mlibboost-url-dev[0m/kali-rolling 1.83.0.2+b2 amd64
+  C++ library that implements "URL" (default version)
+
+[32mlibboost-url1.83-dev[0m/kali-rolling 1.83.0-5 amd64
+  C++ library that implements "URL"
+
+[32mlibboost-url1.83.0[0m/kali-rolling,now 1.83.0-5 amd64 [installed,auto-removable]
+  C++ library that implements "URL"
+
+[32mlibboost-url1.88-dev[0m/kali-rolling,now 1.88.0-1.4 amd64 [installed]
+  C++ library that implements "URL"
+
+[32mlibboost-url1.88.0[0m/kali-rolling,now 1.88.0-1.4 amd64 [installed,automatic]
+  C++ library that implements "URL"
+
+[32mlibboost-wave-dev[0m/kali-rolling 1.83.0.2+b2 amd64
+  C99/C++ preprocessor library (default version)
+
+[32mlibboost-wave1.83-dev[0m/kali-rolling 1.83.0-5 amd64
+  C99/C++ preprocessor library
+
+[32mlibboost-wave1.83.0[0m/kali-rolling,now 1.83.0-5 amd64 [installed,auto-removable]
+  C99/C++ preprocessor library
+
+[32mlibboost-wave1.88-dev[0m/kali-rolling,now 1.88.0-1.4 amd64 [installed]
+  C99/C++ preprocessor library
+
+[32mlibboost-wave1.88.0[0m/kali-rolling,now 1.88.0-1.4 amd64 [installed,automatic]
+  C99/C++ preprocessor library
+
+[32mlibboost1.83-all-dev[0m/kali-rolling 1.83.0-5 amd64
+  Boost C++ Libraries development files (ALL)
+
+[32mlibboost1.83-dev[0m/kali-rolling 1.83.0-5 amd64
+  Boost C++ Libraries development files
+
+[32mlibboost1.83-doc[0m/kali-rolling,kali-rolling 1.83.0-5 all
+  Boost.org libraries documentation placeholder
+
+[32mlibboost1.83-tools-dev[0m/kali-rolling 1.83.0-5 amd64
+  Boost C++ Libraries development tools
+
+[32mlibboost1.88-all-dev[0m/kali-rolling,now 1.88.0-1.4 amd64 [installed]
+  Boost C++ Libraries development files (ALL)
+
+[32mlibboost1.88-dev[0m/kali-rolling,now 1.88.0-1.4 amd64 [installed,automatic]
+  Boost C++ Libraries development files
+
+[32mlibboost1.88-doc[0m/kali-rolling,kali-rolling 1.88.0-1.4 all
+  Boost.org libraries documentation placeholder
+
+[32mlibboost1.88-tools-dev[0m/kali-rolling,now 1.88.0-1.4 amd64 [installed,automatic]
+  Boost C++ Libraries development tools
+
+[32mr-cran-bh[0m/kali-rolling,kali-rolling 1.84.0-1 all
+  (Virtual) GNU R package to provide BH
+

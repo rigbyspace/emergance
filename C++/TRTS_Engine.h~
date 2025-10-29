@@ -1,0 +1,94 @@
+#pragma once
+#include <boost/multiprecision/cpp_int.hpp>
+#include <boost/rational.hpp>
+#pragma once
+
+#include <iostream>
+// ... other includes ...
+//#include <boost/multiprecision/number_theoretic.hpp> 
+
+// --- Core Definitions ---
+using HighPrecisionInt = boost::multiprecision::cpp_int;
+using Rational = boost::rational<HighPrecisionInt>;
+
+// --- ENUMS for CLI Control ---
+enum PsiBehavior { PSI_FORCED, PSI_RHO_TRIGGERED, PSI_DUAL_RECIPROCAL };
+enum KoppaMode { KOPPA_ACCUMULATE, KOPPA_DUMP, KOPPA_RATIO_FEED };
+enum EngineType { ENGINE_ADDITIVE, ENGINE_MULTIPLICATIVE, ENGINE_ROTATIONAL, ENGINE_QUIET_ADDITIVE };
+enum PsiBehavior { PSI_FORCED, PSI_RHO_TRIGGERED, PSI_DUAL_RECIPROCAL };
+enum KoppaMode { KOPPA_ACCUMULATE, KOPPA_DUMP, KOPPA_RATIO_FEED };
+enum EngineType { ENGINE_ADDITIVE, ENGINE_MULTIPLICATIVE, ENGINE_ROTATIONAL, ENGINE_QUIET_ADDITIVE };
+
+// --- ENUM Conversion Function DECLARATIONS ---
+PsiBehavior string_to_psi(const std::string& s);
+KoppaMode string_to_koppa(const std::string& s);
+EngineType string_to_engine(const std::string& s);
+// --- TRTS Engine Class ---
+class TRTS_Engine {
+private:
+    // 💥💥 CRITICAL FIX: These member variables MUST be defined here 💥💥
+    Rational upsilon, beta, koppa; 
+    int rho, microtick, step;         
+    PsiBehavior psi_mode;
+    KoppaMode koppa_mode;
+    EngineType engine_mode;
+    
+    // --- Core Logic Declarations ---
+    bool is_miller_rabin_prime(const HighPrecisionInt& n, int k = 10) const;
+    bool is_prime_trigger() const;
+    void psi_transform();
+    void apply_propagation_engine();
+    void update_koppa(int trigger);
+
+public:
+    // Constructor
+    TRTS_Engine(PsiBehavior psi, KoppaMode koppa, EngineType engine);
+
+    // Initialization and Execution
+    void initialize_state(const HighPrecisionInt& u_num, const HighPrecisionInt& b_num);
+    void process_microtick();
+    void execute_step(int total_microticks = 11);
+
+    // Getters for status monitoring
+    std::string get_upsilon_ratio() const;
+    std::string get_beta_ratio() const;
+    std::string get_koppa_ratio() const;
+};
+
+// Core Definitions
+using HighPrecisionInt = boost::multiprecision::cpp_int;
+using Rational = boost::rational<HighPrecisionInt>;
+
+// ENUMS (Same as before)
+enum PsiBehavior { PSI_FORCED, PSI_RHO_TRIGGERED, PSI_DUAL_RECIPROCAL };
+enum KoppaMode { KOPPA_ACCUMULATE, KOPPA_DUMP, KOPPA_RATIO_FEED };
+enum EngineType { ENGINE_ADDITIVE, ENGINE_MULTIPLICATIVE, ENGINE_ROTATIONAL, ENGINE_QUIET_ADDITIVE };
+
+class TRTS_Engine {
+private:
+    // ... (Private variables and functions like is_miller_rabin_prime and psi_transform)
+    // The implementation of is_miller_rabin_prime is still here because it must be inline/template-aware.
+
+    bool is_miller_rabin_prime(const HighPrecisionInt& n, int k = 10) const; // Declaration here
+    void psi_transform(); // Declaration here
+    void apply_propagation_engine(); // Declaration here
+    void update_koppa(int trigger); // Declaration here
+
+public:
+    // Constructor
+    TRTS_Engine(PsiBehavior psi, KoppaMode koppa, EngineType engine);
+
+    // Initialization and Execution
+    void initialize_state(const HighPrecisionInt& u_num, const HighPrecisionInt& b_num);
+    void process_microtick();
+    void execute_step(int total_microticks = 11);
+
+    // Getters for status monitoring
+    std::string get_upsilon_ratio() const;
+    // ... (other getters)
+};
+
+// Utility function to convert CLI string to ENUM
+PsiBehavior string_to_psi(const std::string& s);
+KoppaMode string_to_koppa(const std::string& s);
+EngineType string_to_engine(const std::string& s);
